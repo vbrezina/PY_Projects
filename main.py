@@ -13,4 +13,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+in1 = input("Give me a number:")
+print("Druha mocnina cisla "+in1+ " je " + str(int(in1)*int(in1)))
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
